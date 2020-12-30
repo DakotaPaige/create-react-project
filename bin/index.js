@@ -6,7 +6,7 @@ const inquirer = require('inquirer');
 const path = require('path');
 const log = require(`../utils/log`);
 
-const GITHUB_ORG = 'DakotaPaige';
+const GITHUB_ORG = 'dakotapaige';
 
 const initializeProject = function () {
   let projectName, projectTemplate;

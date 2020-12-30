@@ -1,0 +1,16 @@
+{
+  "name": "create-react-project",
+  "version": "1.0.0",
+  "description": "React Project Starter",
+  "author": "Dakota Mauza",
+  "private": true,
+  "license": "NOLICENSE",
+  "bin": "./bin/index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "download-git-repo": "^1.0.2",
+    "fs-extra": "^6.0.1",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10"
+  }
+}
